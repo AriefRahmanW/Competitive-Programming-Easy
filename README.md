@@ -1,1 +1,1 @@
-# Competitive-programming-hackerrank
+# Competitive-programming-difficulty-easy
